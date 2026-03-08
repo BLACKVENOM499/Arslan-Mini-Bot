@@ -1,6 +1,6 @@
 {
   "name": "arslan-mini-bot",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": " WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
   "scripts": {
@@ -32,7 +32,7 @@
     "bot",
     "multi-device",
     "baileys",
-    "shala-md"
+    "arslan-md"
   ],
   "author": "Arslan-MD",
   "license": "MIT"
